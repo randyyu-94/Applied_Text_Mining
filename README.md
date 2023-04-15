@@ -1,0 +1,1 @@
+This repository updates my learning notes and useful learning materials for Applied Text Mining in Python provided by the University of Michigan. Feel free to take use of my learning materials!
