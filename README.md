@@ -3,7 +3,6 @@ This repository contains my personal learning materials for the [Applied Text Mi
 
 
 ## **Table of Contents**
-  - [**Table of Contents**](#table-of-contents)
   - [**About The Course**](#about-the-course)
   - [**Repository Structure**](#repository-structure)
   - [**Prerequisites**](#prerequisites)
