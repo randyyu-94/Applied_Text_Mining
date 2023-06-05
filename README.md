@@ -1,9 +1,8 @@
 # **Welcome to Randy's Learning Center!**
 This repository contains my personal learning materials for the [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining/) course offered by the University of Michigan. 
 
-## **Table of Contents**
 
-- [**Welcome to Randy's Learning Center!**](#welcome-to-randys-learning-center)
+## **Table of Contents**
   - [**Table of Contents**](#table-of-contents)
   - [**About The Course**](#about-the-course)
   - [**Repository Structure**](#repository-structure)
@@ -12,6 +11,7 @@ This repository contains my personal learning materials for the [Applied Text Mi
   - [**Contributions**](#contributions)
   - [**Acknowledgments**](#acknowledgments)
   - [**Private Policy Statement**](#private-policy-statement)
+
 
 ## **About The Course**
 This course will introduce the learner to text mining and text manipulation basics. The course begins with an understanding of how text is handled by python, the structure of text both to the machine and to humans, and an overview of the nltk framework for manipulating text. The second week focuses on common manipulation needs, including regular expressions (searching for text), cleaning text, and preparing text for use by machine learning processes. The third week will apply basic natural language processing methods to text, and demonstrate how text classification is accomplished. The final week will explore more advanced methods for detecting the topics in documents and grouping them by similarity (topic modelling). 
